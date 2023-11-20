@@ -1,0 +1,9 @@
+{
+  "email": "testregister@aaa.com",
+  "password" : "Wakram_123",
+  "basicInfo" :{
+    "courseName" : "Test_Course5",
+    "grade" : "2",
+    "courseTeacherIndex" : 1
+}
+}
